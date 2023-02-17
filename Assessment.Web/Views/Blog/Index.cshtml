@@ -1,0 +1,45 @@
+﻿@model List<Assessment.Data.Blog>
+@{
+    ViewData["Title"] = "Blogs";
+}
+
+<div class="text-center">
+    <h1 class="display-4">@ViewData["Title"]</h1>
+</div>
+
+<html>
+    <body>
+        <a href="@Url.Action("Create", "Blog")" class="btn btn-primary">Create Blog</a>
+        
+        <table class=" table table-bordered">
+            <thead>
+                <tr>
+                    <th>Title</th>
+                    <th>Body</th>
+                    <th>FirstName</th>
+                    <th>LastName</th>
+                </tr>
+            </thead>
+            <tbody>
+            @foreach (Blog item in Model)
+                {
+                    <tr>
+                        <td>@item.Title</td>
+                        <td>@item.Body</td>
+                        <td>@item.Author.FirstName</td>
+                        <td>@item.Author.LastName</td>
+                        <td>
+                            <a asp-action="Edit" asp-route-id="@item.Id" class="btn btn-primary">Edit</a>
+                        </td>
+                        <td>
+                            <form method="post" asp-action="Delete" asp-route-id="@item.Id">
+                            <button type="submit" class="btn btn-primary">Delete</button>
+                            </form>
+                        </td>
+                    </tr>
+
+                }
+            </tbody>
+        </table>
+    </body>
+</html>

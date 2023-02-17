@@ -1,0 +1,13 @@
+D:\Github_workspace\assessmentEdit\Assessment.Services\obj\Debug\netcoreapp3.1\Assessment.Services.csproj.AssemblyReference.cache
+D:\Github_workspace\assessmentEdit\Assessment.Services\obj\Debug\netcoreapp3.1\Assessment.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github_workspace\assessmentEdit\Assessment.Services\obj\Debug\netcoreapp3.1\Assessment.Services.AssemblyInfoInputs.cache
+D:\Github_workspace\assessmentEdit\Assessment.Services\obj\Debug\netcoreapp3.1\Assessment.Services.AssemblyInfo.cs
+D:\Github_workspace\assessmentEdit\Assessment.Services\obj\Debug\netcoreapp3.1\Assessment.Services.csproj.CoreCompileInputs.cache
+D:\Github_workspace\assessmentEdit\Assessment.Services\bin\Debug\netcoreapp3.1\Assessment.Services.deps.json
+D:\Github_workspace\assessmentEdit\Assessment.Services\bin\Debug\netcoreapp3.1\Assessment.Services.dll
+D:\Github_workspace\assessmentEdit\Assessment.Services\bin\Debug\netcoreapp3.1\Assessment.Services.pdb
+D:\Github_workspace\assessmentEdit\Assessment.Services\bin\Debug\netcoreapp3.1\Assessment.Data.dll
+D:\Github_workspace\assessmentEdit\Assessment.Services\bin\Debug\netcoreapp3.1\Assessment.Data.pdb
+D:\Github_workspace\assessmentEdit\Assessment.Services\obj\Debug\netcoreapp3.1\Assessment.Services.csproj.CopyComplete
+D:\Github_workspace\assessmentEdit\Assessment.Services\obj\Debug\netcoreapp3.1\Assessment.Services.dll
+D:\Github_workspace\assessmentEdit\Assessment.Services\obj\Debug\netcoreapp3.1\Assessment.Services.pdb
